@@ -1,0 +1,40 @@
+.preview {
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 300px;
+}
+
+.video {
+    height: 300px;
+    width: 300px;
+}
+
+.screen-time {
+    width: 300px;
+}
+
+.thumb {
+    width: 100%;
+}
+
+.ch {
+    border-radius: 50px;
+    border: none;
+    width: 50px;
+}
+
+.desc {
+    display: inline-block;
+}
+
+.title {
+    font-size: 22px;
+}
+
+.chann {
+    width: 50px;
+}
+
+.author {
+    font-size: 15px;
+}

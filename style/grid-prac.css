@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 20px;
+    row-gap: 40px;
+}
+
+.video {
+    width: 300px;
+}
+
+.div-grow {
+    width: 300px;
+    margin-bottom: 5px;
+}
+
+.thumb-1 {
+    width: 100%;
+}
+
+.chan-div {
+    width: 35px;
+    height: 100%;
+}
+
+.ch {
+    border-radius: 50px;
+    width: 100%;
+}
+
+.chan-info {
+    width: 1fr;
+}
+
+.desc {
+    width: 1fr;
+    display: inline-block;
+}
+
+.ch-next {
+    display: inline-block;
+    width: 1fr;
+}
+
+.title {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.author {
+    color: rgb(55, 55, 55);
+}
